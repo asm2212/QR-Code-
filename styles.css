@@ -38,13 +38,22 @@ body {
 
 .container {
   text-align: center;
-  margin: 1px 0;
+  margin: 10px 0;
   color: black;
   margin-top: auto;
+  font-size: 20px;
 
+}
+.parent .container p{
+  color: #000000ea;
+  font-weight: bold;
+}
+.parent .container h5{
+  font-size: 12px;
+  color: antiquewhite;
 }
 .attribution {
   margin-top: auto;
-  font-size: 12px;
+  font-size: 15px;
   color: #777;
 }
